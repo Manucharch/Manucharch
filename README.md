@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manucharch
 - 👀 I’m interested in WebDevelpment.
-- 🌱 I’m currently learning php, JS, css, html.
+- 🌱 I’m currently C# Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me manucharch@gmail.com
 
